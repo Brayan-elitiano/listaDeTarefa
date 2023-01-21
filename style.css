@@ -1,3 +1,33 @@
-#lista{
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: o;
+    text-align: center;
+    place-items: center;
+
+}
+
+body {
+
+ 
+ 
+    background-color: #023059;
+    color: #89CAD9;
+    min-height: 100vh;
+    display: grid;
+}
+
+.box {
+    background-color: #025373;
+}
+
+h1 {
+    text-align: center;
+}
+
+.lista {
+    marker: none;
+}
+.inputtesto{
     
 }
