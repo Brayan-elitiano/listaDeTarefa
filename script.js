@@ -9,10 +9,11 @@ function add() {
 }
 
 function render() {
-  ul.
+  
   const ul = document.querySelector("ul");
-
+  ul.innerHTML = null
   tarefas.forEach(function(tarefa){
+
     const li = document.createElement("li");
     li.innerText = tarefa;
     ul.appendChild(li);
