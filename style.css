@@ -31,3 +31,7 @@ footer input {
   flex: auto;
   padding: 5px;
 }
+.butoes{
+  display: flex;
+  flex-direction: row-reverse;
+}
